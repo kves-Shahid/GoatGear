@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "gear-92794",
+          "appId": "1:422402787915:android:6f33977169d7c555d85bce",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "gear-92794",
+          "configurations": {
+            "android": "1:422402787915:android:6f33977169d7c555d85bce",
+            "ios": "1:422402787915:ios:f65e597c28ea56aad85bce",
+            "macos": "1:422402787915:ios:f65e597c28ea56aad85bce",
+            "web": "1:422402787915:web:792c484e2c81e683d85bce",
+            "windows": "1:422402787915:web:ac4373221d1a93b2d85bce"
+          }
+        }
+      }
+    }
+  },
+  "emulators": {
+    "singleProjectMode": true
+  }
+}
